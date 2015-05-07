@@ -1,3 +1,8 @@
+/**Program to get key-value pair as Entry object. 
+ * Entry object provides getter methods to access key-value objects.
+ * entrySet() method returns Set object with Entry values. 
+**/
+
 import java.util.Hashtable;
 import java.util.Map.Entry;
 import java.util.Set;
